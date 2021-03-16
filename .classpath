@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="resources/mssql-jdbc-8.4.1.jre14.jar"/>
+	<classpathentry kind="lib" path="resources/rs2xml.jar"/>
+	<classpathentry kind="lib" path="resources/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="resources/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="resources/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="resources/junit-4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
